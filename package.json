@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "discord-speech-recognition": "^3.2.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.11",
+    "opusscript": "^0.0.8"
+  },
+  "name": "soundclamation-bot",
+  "version": "1.0.0",
+  "main": "./scr/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
